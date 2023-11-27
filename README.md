@@ -37,5 +37,3 @@ In the **Project Wrap-up**, I reflect on the project's achievements and discuss 
 This project mirrors real-world scenarios in data processing and API management, demonstrating my technical proficiency. The integration of technologies like FastAPI, Apache Kafka, and MongoDB into a comprehensive data processing pipeline exemplifies my technical acumen. My innovative approach to solving complex technical challenges is also highlighted, showcasing my skills in software development and data engineering.
 
 Dive into this repository for an in-depth look at each component and the overarching methodology of this ambitious project.
-
-![image](https://github.com/gnavarrolema/Document-Streaming-Project/assets/98982862/e6eb959a-98e3-49c5-889d-1bc5992f7b1f)
